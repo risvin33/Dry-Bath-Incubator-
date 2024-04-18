@@ -1,0 +1,1 @@
+The Drybath Incubator project utilizes PIC16F886 microcontrollers for precise temperature control, ensuring optimal conditions for biological and chemical processes in scientific and medical applications.
